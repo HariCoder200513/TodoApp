@@ -50,7 +50,7 @@ function Signup() {
                 onChange={(e) => setPassword(e.target.value)}
               />
             </div>
-          </div>
+          </div> 
 
           <div>
             <button
