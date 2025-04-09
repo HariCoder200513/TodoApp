@@ -2,7 +2,7 @@
 
 A simple and beautiful Todo App built using **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **Zustand** for state management.
 
-🌐 **Live Demo:** [todoapplicationbymepco.netlify.app](https://todoapplicationbymepco.netlify.app)
+🌐 **Live Demo:** [Click Here](https://twocreditcoursemepco.netlify.app/)
 
 ---
 
